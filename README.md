@@ -1,6 +1,9 @@
 # Quotes App
 
+### Create With GetX State Managment, JSON Data, Local Database & Many More...
+
 ## Project Objectives :
+
 - SQLite Database : The app utilizes SQLite Database to efficiently store and manage the quotes.
 Quotes fetched from the Local JSON Bank or API are inserted into a table, enabling seamless
 access and retrieval of the quote data. The database allows for efficient categorization and
